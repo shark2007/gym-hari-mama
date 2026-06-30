@@ -18,7 +18,7 @@ export default function Portfolio() {
     { src: '/gym2.jpeg', alt: 'M. Rajkumar Training' },
     { src: '/gym3.jpeg', alt: 'M. Rajkumar Championship Win' },
     { src: '/gym4.jpeg', alt: 'M. Rajkumar Indian Railways Representing' },
-    { src: '/gym5.jpeg', alt: 'M. Rajkumar Back Double Bicep' },
+    { src: '/gym5.jpeg', alt: 'M. Rajkumar Most muscular' },
     { src: '/gym6.jpeg', alt: 'M. Rajkumar Gold Medal Moment' }
   ];
 
